@@ -1,0 +1,16 @@
+{
+  "name": "nodejsselenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^5.0.0",
+    "selenium-webdriver": "^3.4.0",
+    "xpath-dom": "0.2.2"
+  }
+}
